@@ -1,4 +1,5 @@
 # Cloud Server Documentation
+## Jigdrel Sonam Wangchuk (35470585)
 
 ## Server Setup
 - For my cloud project, I have used IaaS – Microsoft Azure for students VM for hosting the project as Students are offered $100 credit after signing in with student mail. 
