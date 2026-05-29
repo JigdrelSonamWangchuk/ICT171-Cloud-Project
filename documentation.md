@@ -57,4 +57,8 @@
 
 ## Scripts
 I have also developed a short script for server status check.
+
 [Script to Check Server Status](scripts-to-check-server-status.md)
+
+## Scrpit Run in VM
+![Script Run](screenshots/script-run.png)
