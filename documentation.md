@@ -42,4 +42,4 @@
 
 ## Scripts
 I have also developed a short script for server status check.
-[Script to Check Server Status](scripts-to-check-status.md)
+[Script to Check Server Status](scripts-to-check-server-status.md)
