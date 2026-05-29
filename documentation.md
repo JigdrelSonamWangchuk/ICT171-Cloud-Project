@@ -30,7 +30,7 @@
 [Configure Ubuntu Firewall](commands-to-configure-ubuntu-firewall.md)
 
 ## To Create Proper Nginx Server Block
-[Create Nginx Server Block](commands-to-create-nginx-server-block.md)
+[Create Nginx Server Block](commands-to-create-nginx-block.md)
 
 ## Installing additional data base management system (SQL)
 - Firstly in order to install SQL, I updated packages.
