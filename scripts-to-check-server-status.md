@@ -1,4 +1,4 @@
-# Short Script to Ccheck Server Status
+# Short Script to Check Server Status
 
 ```bash
 echo "===== Server Status Check ====="
