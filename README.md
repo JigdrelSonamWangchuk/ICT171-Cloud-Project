@@ -10,4 +10,4 @@ My documnetation contains these files as follows:
 5. Commands to create proper nginx server block
 6. Commands to install SSL
 7. Commands to install MySQL data management system
-8. Screenshots
+8. Scripts
