@@ -27,7 +27,7 @@
 - After that, configure ubuntu firewall (UFW).
 
 ## To Configure Ubuntu Firewall (UFW)
-[Configure Ubuntu Firewall](ubuntu-firewall.md)
+[Configure Ubuntu Firewall](commands-to-configure-ubuntu-firewall.md)
 
 ## To Create Proper Nginx Server Block
 [Create Nginx Server Block](nginx-server-block.md)
