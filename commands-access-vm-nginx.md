@@ -2,7 +2,7 @@
 
 ## To access VM
 ```bash
-ssh -i “cloudserver-key,pem” Jigdrel@20.2.235.141
+ssh -i “cloudserver-key.pem” Jigdrel@20.2.235.141
 ```
 
 ## Install Nginx
