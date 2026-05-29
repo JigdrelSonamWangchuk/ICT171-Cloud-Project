@@ -5,7 +5,6 @@
 
 My documnetation contains these files as follows:
 1. Cloud Server Documnetation
-   [Cloud Server Documentation](documentation.md)
 2. Commands to Access Virual Machine
 4. Commands to configure Ubuntu Firewall (UFW)
 5. Commands to create proper nginx server block
