@@ -21,3 +21,4 @@
 
 ## SSL Certificate
 - Firstly, to get SSL certificate, open Azure Network Ports, and allow port 22 (For SSH), port 80 (For HTTP) and finally, port 443 (For HTTPS).
+- After that, configure ubuntu firewall (UFW).
