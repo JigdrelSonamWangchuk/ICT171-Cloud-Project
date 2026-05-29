@@ -39,3 +39,12 @@ echo "Public IP Address:"
 curl ifconfig.me
 echo
 ```
+## Make it Executable
+```bash
+chmod +x server-check.sh
+```
+## Run the Script
+```bash
+./server-check.sh
+```
+
