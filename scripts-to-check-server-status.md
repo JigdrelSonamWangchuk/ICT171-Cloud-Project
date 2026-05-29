@@ -1,6 +1,17 @@
 # Short Script to Check Server Status
 
+## Create a Scripts Folder
 ```bash
+mkdir scripts
+cd scripts
+```
+## Create a Script File
+```bash
+nano server-check.sh
+```
+## Paste This Script
+```bash
+#!/bin/bash
 echo "===== Server Status Check ====="
 echo
 
