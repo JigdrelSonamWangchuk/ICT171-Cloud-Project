@@ -9,4 +9,5 @@ My documnetation contains these files as follows:
 3. Commands to configure Ubuntu Firewall (UFW)
 4. Commands to create proper nginx server block
 5. Commands to install SSL
-6. Screenshots
+6. Commands to install MySQL data management system
+7. Screenshots
