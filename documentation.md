@@ -41,4 +41,5 @@
 [Install MySQL](commands-to-install-mysql.md)
 
 ## Scripts
-I have also develop a short script for server status check
+I have also developed a short script for server status check.
+[Script to Check Server Status](scripts-to-check-status.md)
