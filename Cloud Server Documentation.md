@@ -12,7 +12,7 @@
 -	Keep the network configuration to default and create the VM.
 
   ## To Access VM and Install Nginx
-  [Commands to Access VM and Nginx](./Commands%to%Access%VM%and%Nginx.md)
+[Commands to Access VM and Nginx](commands-access-vm-nginx.md)
 
 
 ## DNS / Domain Setup
