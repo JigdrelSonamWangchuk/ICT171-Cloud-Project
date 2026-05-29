@@ -12,9 +12,14 @@
 -	Configure the disks with a 30GB OS disk.
 -	Keep the network configuration to default and create the VM.
 
-  ## To Access VM and Install Nginx
+## To Access VM and Install Nginx
 [Commands to Access VM and Nginx](commands-access-vm-nginx.md)
 
+## Nginx Status
+![Nginx Status](screenshots/nginx-t.png)
+
+## VM Overview Configurations
+![VM Overview](screenshots/vm-overview.png)
 
 ## DNS / Domain Setup
 -	I created an account in Namecheap.
@@ -23,12 +28,17 @@
 -	I also created a CNAME Record, entered www in host, entered jigdrel.shop in value and set the TTL to automatic.
 -	To test the domain name, I entered my domain name in browser and checked if it shows my page.
 
+## Overview of DNS
+![DNS Overview](screenshots/dns-overview.png)
 ## SSL Certificate
 - Firstly, to get SSL certificate, open Azure Network Ports, and allow port 22 (For SSH), port 80 (For HTTP) and finally, port 443 (For HTTPS).
 - After that, configure ubuntu firewall (UFW).
 
 ## To Configure Ubuntu Firewall (UFW)
 [Configure Ubuntu Firewall](commands-to-configure-ubuntu-firewall.md)
+
+## UFW Status
+[UFW Status](ufw-status.md)
 
 ## To Create Proper Nginx Server Block
 [Create Nginx Server Block](commands-to-create-nginx-block.md)
@@ -40,6 +50,10 @@
 
 ## To Install MySQL
 [Install MySQL](commands-to-install-mysql.md)
+
+## MySQL Status
+
+![MySQL Status](screenshots/system-status-mysql.png)
 
 ## Scripts
 I have also developed a short script for server status check.
