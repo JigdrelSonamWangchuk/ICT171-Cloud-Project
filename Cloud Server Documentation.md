@@ -11,6 +11,9 @@
 -	Configure the disks with a 30GB OS disk.
 -	Keep the network configuration to default and create the VM.
 
+  ## To Access VM and Install Nginx
+  Commands to Access VM and Nginx.md
+
 
 ## DNS / Domain Setup
 -	I created an account in Namecheap.
