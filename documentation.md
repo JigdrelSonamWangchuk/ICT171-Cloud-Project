@@ -26,7 +26,16 @@
 - Firstly, to get SSL certificate, open Azure Network Ports, and allow port 22 (For SSH), port 80 (For HTTP) and finally, port 443 (For HTTPS).
 - After that, configure ubuntu firewall (UFW).
 
+## To Configure Ubuntu Firewall (UFW)
+[Configure Ubuntu Firewall](ubuntu-firewall.md)
+
+## To Create Proper Nginx Server Block
+[Create Nginx Server Block](nginx-server-block.md)
+
 ## Installing additional data base management system (SQL)
 - Firstly in order to install SQL, I updated packages.
 - Then I installed SQL by writing commands and check if it is running.
 - Log into MySQL and creating database.
+
+## To Install MySQL
+[Install MySQL](mysql-installation.md)
