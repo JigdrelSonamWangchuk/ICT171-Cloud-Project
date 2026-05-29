@@ -38,7 +38,7 @@
 [Configure Ubuntu Firewall](commands-to-configure-ubuntu-firewall.md)
 
 ## UFW Status
-![ufw-status](ufw-status.png)
+![UFW Status](screenshots/ufw-status.png)
 
 ## To Create Proper Nginx Server Block
 [Create Nginx Server Block](commands-to-create-nginx-block.md)
