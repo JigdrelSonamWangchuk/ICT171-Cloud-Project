@@ -5,9 +5,10 @@
 
 My documnetation contains these files as follows:
 1. Cloud Server Documnetation
+   [Cloud Server Documentation](documentation.md)
 2. Commands to Access Virual Machine
-3. Commands to configure Ubuntu Firewall (UFW)
-4. Commands to create proper nginx server block
-5. Commands to install SSL
-6. Commands to install MySQL data management system
-7. Screenshots
+4. Commands to configure Ubuntu Firewall (UFW)
+5. Commands to create proper nginx server block
+6. Commands to install SSL
+7. Commands to install MySQL data management system
+8. Screenshots
